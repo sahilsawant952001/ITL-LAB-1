@@ -1,0 +1,137 @@
+.wrapper {
+  max-width: 1140px;
+  padding-left: 1rem;
+  padding-right: 1rem;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+*,
+*:before,
+*:after {
+  box-sizing: border-box;
+}
+
+a {
+  text-decoration: none;
+  color: #222;
+}
+
+html {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+body {
+  font-family: "Roboto", sans-serif;
+}
+
+.sr-only {
+  position: absolute;
+  clip: rect(1px, 1px, 1px, 1px);
+  padding: 0;
+  border: 0;
+  height: 1px;
+  width: 1px;
+  overflow: hidden;
+}
+
+.button {
+  -webkit-appearance: none;
+     -moz-appearance: none;
+          appearance: none;
+  color: #fff;
+  background-color: #2fa0f6;
+  min-width: 120px;
+  padding: 0.5rem 1rem;
+  border-radius: 5px;
+  text-align: center;
+}
+
+.button svg {
+  display: inline-block;
+  vertical-align: middle;
+  width: 24px;
+  height: 24px;
+  fill: #fff;
+}
+
+.button span {
+  display: none;
+}
+
+@media (min-width: 600px) {
+  .button span {
+    display: initial;
+  }
+}
+
+.button--icon {
+  min-width: initial;
+  padding: 0.5rem;
+}
+
+#top-news, #business-news, #entertainment-news, #health-news, #science-news, #sports-news, #technology-news{
+  padding: 4% 5%;
+  font-family: 'Montserrat', sans-serif;
+  background-color: #C9D6DF;
+}
+
+ol,ul{
+    list-style:none
+}
+
+html,body{
+    margin:0;
+    padding:0;
+}
+
+.main-h1{
+    text-align: center;
+    font-family: 'Cinzel', serif;
+    font-size: 4rem;
+    background-color: #C9D6DF;
+    margin: 0;
+    padding: 5% 0 2% 0;
+    color: #1E2022;
+}
+
+.footer{
+  background-color: #52616B;
+    padding: 5%;
+    color: white;
+    margin: 0;
+    text-align: center;
+}
+
+#news-title{
+  padding: 3% 5%;
+  font-family: 'Roboto', sans-serif;
+  text-align: center;
+  font-size: 3rem;
+  font-weight: bolder;
+  background-color: #C9D6DF;
+  color: #1E2022;
+  margin: 0;
+}
+
+#news-image{
+  margin: 0 25% 5% 25%;
+}
+
+#news-desc{
+  font-family: 'Roboto', sans-serif;
+  text-align: center;
+  padding: 1% 20%;
+}
+
+#news-author,#news-time,.subc{
+  font-family: 'Roboto', sans-serif;
+  text-align: center;
+  display: inline;
+}
+
+.news-sec{
+  padding: 4% 0 6% 0;
+  background-color: #C9D6DF;
+}
