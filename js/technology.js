@@ -47,7 +47,7 @@ var technology = [
     title: "How to improve Windows 10 security on PCs that can't run Windows 11 - IDG TECHtalk",
     description: null,
     url: "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9UEdKTVVoYzNlSEHSAQA?oc=5",
-    urlToImage: null,
+    urlToImage: "https://static4.depositphotos.com/1006069/377/i/950/depositphotos_3779660-stock-photo-breaking-news.jpg",
     publishedAt: "2021-09-08T09:00:22Z",
     content: null
     },
@@ -86,7 +86,7 @@ var technology = [
     title: "Realme Pad confirmed to pack a 7,100 mAh battery with 18W Quick Charge - gizmochina",
     description: null,
     url: "https://news.google.com/__i/rss/rd/articles/CBMibGh0dHBzOi8vd3d3Lmdpem1vY2hpbmEuY29tLzIwMjEvMDkvMDgvcmVhbG1lLXBhZC1jb25maXJtZWQtdG8tcGFjay1hLTcxMDAtbWFoLWJhdHRlcnktd2l0aC0xOHctcXVpY2stY2hhcmdlL9IBAA?oc=5",
-    urlToImage: null,
+    urlToImage: "https://static4.depositphotos.com/1006069/377/i/950/depositphotos_3779660-stock-photo-breaking-news.jpg",
     publishedAt: "2021-09-08T07:27:05Z",
     content: null
     },

@@ -164,7 +164,7 @@ var mainNews = [
     title: "Explained | Who is Mullah Hasan Akhund? What does the Taliban’s choice of interim prime minister mean for Afghanistan? - The Hindu",
     description: null,
     url: "https://news.google.com/__i/rss/rd/articles/CBMipwFodHRwczovL3d3dy50aGVoaW5kdS5jb20vbmV3cy9pbnRlcm5hdGlvbmFsL3doby1pcy1tdWxsYWgtaGFzYW4tYWtodW5kLXdoYXQtZG9lcy10aGUtdGFsaWJhbnMtY2hvaWNlLW9mLWludGVyaW0tcHJpbWUtbWluaXN0ZXItbWVhbi1mb3ItYWZnaGFuaXN0YW4vYXJ0aWNsZTM2MzUzMTg5LmVjZdIBrAFodHRwczovL3d3dy50aGVoaW5kdS5jb20vbmV3cy9pbnRlcm5hdGlvbmFsL3doby1pcy1tdWxsYWgtaGFzYW4tYWtodW5kLXdoYXQtZG9lcy10aGUtdGFsaWJhbnMtY2hvaWNlLW9mLWludGVyaW0tcHJpbWUtbWluaXN0ZXItbWVhbi1mb3ItYWZnaGFuaXN0YW4vYXJ0aWNsZTM2MzUzMTg5LmVjZS9hbXAv?oc=5",
-    urlToImage: null,
+    urlToImage: "https://static4.depositphotos.com/1006069/377/i/950/depositphotos_3779660-stock-photo-breaking-news.jpg",
     publishedAt: "2021-09-08T04:09:53Z",
     content: null
     },
@@ -242,7 +242,7 @@ var mainNews = [
     title: "Is Bigg Boss OTT contestant Urfi Javed linked to Javed Akhtar? Shabana Azmi clarifies - Zee News",
     description: "Bigg Boss OTT’s eliminated contestant Urfi Javed recently grabbed eyeballs for her airport look, but the trend changed soon after. Urfi wore a cropped denim jacket with her bra visible. She was later trolled and abused online. The harassment didn’t stop there.",
     url: "https://zeenews.india.com/television/is-bigg-boss-ott-contestant-urfi-javed-linked-to-javed-akhtar-shabana-azmi-clarifies-2392102.html",
-    urlToImage: "https://english.cdn.zeenews.com/sites/dyefault/files/2021/09/08/968541-urfi-javed-jave-akhtar.png",
+    urlToImage: "https://static4.depositphotos.com/1006069/377/i/950/depositphotos_3779660-stock-photo-breaking-news.jpg",
     publishedAt: "2021-09-08T03:13:35Z",
     content: "New Delhi: Bigg Boss OTTs eliminated contestant Urfi Javed recently grabbed eyeballs for her airport look, but the trend changed soon after. Urfi wore a cropped denim jacket with her bra visible. She… [+1291 chars]"
     },

@@ -77,6 +77,12 @@ body {
   background-color: #C9D6DF;
 }
 
+#videos-sec{
+  padding: 4% 2%;
+  font-family: 'Montserrat', sans-serif;
+  background-color: #C9D6DF;
+}
+
 ol,ul{
     list-style:none
 }

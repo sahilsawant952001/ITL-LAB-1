@@ -73,7 +73,7 @@ var health = [
     title: "Languishing, burnout and stigma are all among the possible psychological impacts as Delta lingers in the community - The Hindu BusinessLine",
     description: null,
     url: "https://news.google.com/__i/rss/rd/articles/CBMitwFodHRwczovL3d3dy50aGVoaW5kdWJ1c2luZXNzbGluZS5jb20vbmV3cy92YXJpZXR5L2xhbmd1aXNoaW5nLWJ1cm5vdXQtYW5kLXN0aWdtYS1hcmUtYWxsLWFtb25nLXRoZS1wb3NzaWJsZS1wc3ljaG9sb2dpY2FsLWltcGFjdHMtYXMtZGVsdGEtbGluZ2Vycy1pbi10aGUtY29tbXVuaXR5L2FydGljbGUzNjM1Mzk3My5lY2XSAbwBaHR0cHM6Ly93d3cudGhlaGluZHVidXNpbmVzc2xpbmUuY29tL25ld3MvdmFyaWV0eS9sYW5ndWlzaGluZy1idXJub3V0LWFuZC1zdGlnbWEtYXJlLWFsbC1hbW9uZy10aGUtcG9zc2libGUtcHN5Y2hvbG9naWNhbC1pbXBhY3RzLWFzLWRlbHRhLWxpbmdlcnMtaW4tdGhlLWNvbW11bml0eS9hcnRpY2xlMzYzNTM5NzMuZWNlL2FtcC8?oc=5",
-    urlToImage: null,
+    urlToImage: "https://static4.depositphotos.com/1006069/377/i/950/depositphotos_3779660-stock-photo-breaking-news.jpg",
     publishedAt: "2021-09-08T06:28:57Z",
     content: null
     },
@@ -255,7 +255,7 @@ var health = [
     title: "COVID-19 Viral Count in Cape Canaveral Sewage Sets New Record - Games Bollyinside - BollyInside",
     description: "By the way:Brevard County’s COVID-19 cases fall 18.3%; Florida cases down 14.9% Sewage levels drawn on Aug. 31 hit 5.2 million copies of the viral genetic",
     url: "https://www.bollyinside.com/news/covid-19-viral-count-in-cape-canaveral-sewage-sets-new-record",
-    urlToImage: "https://www.bollyinside.com/wp-content/uploads/2021/08/Takeshi-Kitanos-legacy-in-video-games-•-news.png",
+    urlToImage: "https://static4.depositphotos.com/1006069/377/i/950/depositphotos_3779660-stock-photo-breaking-news.jpg",
     publishedAt: "2021-09-08T01:28:34Z",
     content: "By the way:Brevard Countys COVID-19 cases fall 18.3%; Florida cases down 14.9% Sewage levels drawn on Aug. 31 hit 5.2 million copies of the viral genetic material per liter, up from 1.5 million copie… [+2939 chars]"
     }

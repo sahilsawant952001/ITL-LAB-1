@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>
+          Daily News
+        </title>
+        <meta charset="UTF-8">
+
+        <meta name="description" content="India News, Latest News - Daily News provides the covid-19 latest news today from India and the world. Get all exclusive Breaking News, current headlines, live news, latest news on business, sports, world, and entertainment with exclusive Opinions and Editorials." />
+        <meta name="keywords" content="latest news, breaking news, live news, budget 2021, live news today, India news, Daily News, current headlines, news online, news headlines, live news, latest headlines, India latest, latest news online, breaking news online, latest news headlines, live news online, latest current headlines, science, technology, Daily News opinion, Daily News editorials" />
+
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/css/bootstrap.min.css" integrity="sha384-KyZXEAg3QhqLMpG8r+8fhAXLRk2vvoC2f3B09zVXn8CA5QIVfZOJ3BCsw2P0p/We" crossorigin="anonymous">
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/js/bootstrap.min.js" integrity="sha384-cn7l7gDp0eyniUwwAZgrzD06kc/tftFf19TOAs2zVinnD/C7E91j9yyk5//jjpt/" crossorigin="anonymous"></script>
+
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" integrity="sha512-iBBXm8fW90+nuLcSKlbmrPcLa0OT92xO1BIsZ+ywDWZCvqsWgccV3gFoRBv0z+8dLJgyAHIhR35VZc2oM/gI1w==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+        
+        <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@600&display=swap" rel="stylesheet">
+        <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@600&display=swap" rel="stylesheet">
+        
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        
+        <link rel="stylesheet" href="css/navbar.css" />
+        <link rel="stylesheet" href="css/style.css" />
+        <link rel="stylesheet" href="css/card.css" />
+
+        <script src="js/mainNews.js"></script>
+        
+    </head>
+    <body onload="display()">
+      <nav class="navbar navbar-expand-lg navbar-light bg-light">
+        <div class="container-fluid">
+          <a class="navbar-brand" href="index.html"><img src="images/news-logo.png" height="100px" width="200px"/></a>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+          </button>
+          <div class="collapse navbar-collapse mr-auto" id="navbarNavAltMarkup">
+            <div class="navbar-nav">
+              <a class="nav-link" href="business.html">Business</a>
+              <a class="nav-link" href="entertainment.html">Entertainment</a>
+              <a class="nav-link" href="health.html">Health</a>
+              <a class="nav-link" href="science.html">Science</a>
+              <a class="nav-link" href="sports.html">Sports</a>
+              <a class="nav-link" href="technology.html">Technology</a>
+              <a class="nav-link" href="epaper.html">E-Paper</a>
+              <a class="nav-link" href="videos.html">Videos</a>
+            </div>
+          </div>
+        </div>
+      </nav>
+        <h1 class="main-h1">Top Videos</h1>
+        <div id="videos-sec">
+
+        </div>
+        <div class="footer">
+          <p>Copyright © 2021 Daily News. All rights reserved</p>
+          <p>Terms and Conditions</p>
+          <p>Privacy Policy</p>
+          <i class="fab fa-facebook"></i>&nbsp;&nbsp;&nbsp;
+          <i class="fab fa-instagram"></i>&nbsp;&nbsp;&nbsp;
+          <i class="fab fa-twitter"></i>&nbsp;&nbsp;&nbsp;
+          <i class="fab fa-linkedin"></i>&nbsp;&nbsp;&nbsp;
+        </div>
+        <script type="text/javascript" src="js/videos.js"></script>
+        <script>
+
+            function display(){
+                var ref = document.getElementById('videos-sec');
+                var count = 0;
+                videos.forEach(element => {
+                    ref.insertAdjacentHTML('beforeend',`<iframe style="margin:3% 1%" width="48%" height="315" src="https://www.youtube.com/embed/${element}"></iframe>`); 
+                    count=count+1; 
+                });
+            }
+
+            
+        </script>
+        <script type="text/javascript" src="js/header.js"></script>
+    </body>
+</html>

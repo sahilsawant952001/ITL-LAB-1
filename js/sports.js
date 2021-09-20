@@ -177,7 +177,7 @@ var sports = [
     title: "IPL 2021 - Who's in & out? All you need to know - Cricbuzz",
     description: null,
     url: "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9WHFReGsxNkVZTjDSAQA?oc=5",
-    urlToImage: null,
+    urlToImage: "https://static4.depositphotos.com/1006069/377/i/950/depositphotos_3779660-stock-photo-breaking-news.jpg",
     "publishedAt": "2021-09-08T04:30:05Z",
     "content": null
     },

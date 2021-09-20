@@ -60,7 +60,7 @@ var science = [
     title: "NASA Details Exploration Efforts at Space Symposium | News - Space Bollyinside - BollyInside",
     description: "The Artemis program will establish an orbital lunar outpost, the Gateway, to serve as a base of operations for lunar surface missions. Cheetham’s Advanced",
     url: "https://www.bollyinside.com/news/nasa-details-exploration-efforts-at-space-symposium-news",
-    urlToImage: "https://www.bollyinside.com/wp-content/uploads/2021/08/Takeshi-Kitanos-legacy-in-video-games-•-news.png",
+    urlToImage: "https://static4.depositphotos.com/1006069/377/i/950/depositphotos_3779660-stock-photo-breaking-news.jpg",
     publishedAt: "2021-09-08T02:50:24Z",
     content: "The Artemis program will establish an orbital lunar outpost, the Gateway, to serve as a base of operations for lunar surface missions. Cheethams Advanced Space will test the elliptical orbit for Gate… [+5309 chars]"
     },
@@ -86,7 +86,7 @@ var science = [
     title: "Scientist Says Viruses May Hold Key to Colonizing Other Planets - Space Bollyinside - BollyInside",
     description: "People such as Elon Musk believe we’ll colonize the red planet entirely and become a two-planet species. And this could be one of humankind’s most",
     url: "https://www.bollyinside.com/news/scientist-says-viruses-may-hold-key-to-colonizing-other-planets",
-    urlToImage: "https://www.bollyinside.com/wp-content/uploads/2021/08/Takeshi-Kitanos-legacy-in-video-games-•-news.png",
+    urlToImage: "https://static4.depositphotos.com/1006069/377/i/950/depositphotos_3779660-stock-photo-breaking-news.jpg",
     publishedAt: "2021-09-08T01:53:04Z",
     content: "People such as Elon Musk believe well colonize the red planet entirely and become a two-planet species. And this could be one of humankinds most important endeavors after all, who knows when another … [+2362 chars]"
     },
@@ -112,7 +112,7 @@ var science = [
     title: "Space Health Institute launches the first commercial spaceflight medical research program - Space Ref",
     description: "Space Health Institute launches the first commercial spaceflight medical research program - SpaceRef",
     url: "http://www.spaceref.com/news/viewpr.html?pid=58153",
-    urlToImage: null,
+    urlToImage: "https://static4.depositphotos.com/1006069/377/i/950/depositphotos_3779660-stock-photo-breaking-news.jpg",
     publishedAt: "2021-09-08T01:30:24Z",
     content: "Space Health Institute launches the first commercial spaceflight medical research program\r\nPress Release\r\n From: Translational Research Institute for Space HealthPosted: Tuesday, September 7, 2021 \r\n… [+3859 chars]"
     },
@@ -138,7 +138,7 @@ var science = [
     title: "Kennedy Space Center Regains Florida Resident Agreement - Space Bollyinside - BollyInside",
     description: "Kennedy Space Center Visitor Complex brings back Florida Four Pack The ticket deal is only available to Florida residents The Florida Four Pack includes",
     url: "https://www.bollyinside.com/news/kennedy-space-center-regains-florida-resident-agreement",
-    urlToImage: "https://www.bollyinside.com/wp-content/uploads/2021/08/Takeshi-Kitanos-legacy-in-video-games-•-news.png",
+    urlToImage: "https://static4.depositphotos.com/1006069/377/i/950/depositphotos_3779660-stock-photo-breaking-news.jpg",
     publishedAt: "2021-09-07T22:22:22Z",
     content: "Kennedy Space Center Visitor Complex brings back Florida Four PackThe ticket deal is only available to Florida residentsThe Florida Four Pack includes four admission tickets for $159 plus taxThe deal… [+1272 chars]"
     },
@@ -164,7 +164,7 @@ var science = [
     title: "EYES TO THE SKY: Reach Jupiter, Saturn, Scorpio. - Space Bollyinside - BollyInside",
     description: "“The space beyond Earth is so incredibly vast.”—NASA MOUNT WASHINGTON — Planet Jupiter shines with startling brilliance above the southeast horizon in",
     url: "https://www.bollyinside.com/news/eyes-to-the-sky-reach-jupiter-saturn-scorpio",
-    urlToImage: "https://www.bollyinside.com/wp-content/uploads/2021/08/Takeshi-Kitanos-legacy-in-video-games-•-news.png",
+    urlToImage: "https://static4.depositphotos.com/1006069/377/i/950/depositphotos_3779660-stock-photo-breaking-news.jpg",
     publishedAt: "2021-09-07T20:06:10Z",
     content: "The space beyond Earth is so incredibly vast.NASA MOUNT WASHINGTON Planet Jupiter shines with startling brilliance above the southeast horizon in evening twilight. The great planet, orbiting fifth ou… [+3159 chars]"
     },
@@ -177,7 +177,7 @@ var science = [
     title: "New data gained on double perovskite oxides - Phys.org",
     description: "The Journal of Alloys and Compounds has published an article coauthored by the Institute of Solid State Chemistry and Mechanochemistry (the Ural Branch of the Russian Academy of Sciences), the Donostia International Physics Centre, and the HSE Tikhonov Moscow…",
     url: "https://phys.org/news/2021-09-gained-perovskite-oxides.html",
-    urlToImage: "https://phys.b-cdn.net/tmpl/v6/img/medx308px.png",
+    urlToImage: "https://static4.depositphotos.com/1006069/377/i/950/depositphotos_3779660-stock-photo-breaking-news.jpg",
     publishedAt: "2021-09-07T19:47:56Z",
     content: "The Journal of Alloys and Compounds has published an article coauthored by the Institute of Solid State Chemistry and Mechanochemistry (the Ural Branch of the Russian Academy of Sciences), the Donost… [+5402 chars]"
     },
@@ -229,7 +229,7 @@ var science = [
     title: "The Space Force is beginning to rely on innovative launch concepts - Space Bollyinside - BollyInside",
     description: "In June, a previously flown Falcon 9 booster lofted a new-generation Global Positioning Satellite for the US Space Force. This marked a watershed moment",
     url: "https://www.bollyinside.com/news/the-space-force-is-beginning-to-rely-on-innovative-launch-concepts",
-    urlToImage: "https://www.bollyinside.com/wp-content/uploads/2021/08/Takeshi-Kitanos-legacy-in-video-games-•-news.png",
+    urlToImage: "https://static4.depositphotos.com/1006069/377/i/950/depositphotos_3779660-stock-photo-breaking-news.jpg",
     publishedAt: "2021-09-07T16:10:13Z",
     content: "In June, a previously flown Falcon 9 booster lofted a new-generation Global Positioning Satellite for the US Space Force. This marked a watershed moment for the US military and the concept of reusabl… [+3102 chars]"
     },
@@ -255,7 +255,7 @@ var science = [
     title: "Your family guide to stargazing in the fall sky - Space Bollyinside - BollyInside",
     description: "Light show in the sky You might think of the stunning cosmic displays of the aurora borealis—otherwise known as the northern lights—as something only",
     url: "https://www.bollyinside.com/news/your-family-guide-to-stargazing-in-the-fall-sky",
-    urlToImage: "https://www.bollyinside.com/wp-content/uploads/2021/08/Takeshi-Kitanos-legacy-in-video-games-•-news.png",
+    urlToImage: "https://static4.depositphotos.com/1006069/377/i/950/depositphotos_3779660-stock-photo-breaking-news.jpg",
     publishedAt: "2021-09-07T15:09:12Z",
     content: "Light show in the sky You might think of the stunning cosmic displays of the aurora borealisotherwise known as the northern lightsas something only those in the far north can glimpse. But these shimm… [+2403 chars]"
     }
