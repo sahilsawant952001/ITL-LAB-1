@@ -49,9 +49,11 @@
         </div>
       </nav>
         <h1 class="main-h1">Top Videos</h1>
-        <div id="videos-sec">
+        <center>
+          <div id="videos-sec">
 
-        </div>
+          </div>
+        </center>
         <div class="footer">
           <p>Copyright © 2021 Daily News. All rights reserved</p>
           <p>Terms and Conditions</p>
@@ -68,7 +70,7 @@
                 var ref = document.getElementById('videos-sec');
                 var count = 0;
                 videos.forEach(element => {
-                    ref.insertAdjacentHTML('beforeend',`<iframe style="margin:3% 1%" width="48%" height="315" src="https://www.youtube.com/embed/${element}"></iframe>`); 
+                    ref.insertAdjacentHTML('beforeend',`<iframe style="margin:20px auto" width="70%" height="600" src="https://www.youtube.com/embed/${element}"></iframe>`); 
                     count=count+1; 
                 });
             }

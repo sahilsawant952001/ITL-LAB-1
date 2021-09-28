@@ -78,7 +78,7 @@
                 var ref = document.getElementById('sports-news');
                 var count = 0;
                 sports.forEach(element => {
-                    ref.insertAdjacentHTML('beforeend',`<div class="card" style="width: 18rem;" onclick="setInfo(${count})"><a href="news.html"><img src="${element.urlToImage}" class="card-img-top" /><div class="card-body"><p class="card-text">${element.title}</p></div></a></div>`); 
+                    ref.insertAdjacentHTML('beforeend',`<div class="card" style="width: 18rem;" onclick="setInfo(${count})"><a href="news.html"><img src="${element.urlToImage}" class="card-img-top" /><div class="card-body"><p class="card-text">${element.title.substring(0,50)}</p></div></a></div>`); 
                     count=count+1; 
                 });
             }
